@@ -1,0 +1,9 @@
+/* CSS to style the chatbot button/icon */
+#chatbot-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    cursor: pointer;
+  }
+  
